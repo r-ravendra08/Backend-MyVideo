@@ -6,6 +6,7 @@ public class UpdateModel {
 	private String tags;
 	private String description;
 	private String title;
+	
 
 	public int getId() {
 		return id;
